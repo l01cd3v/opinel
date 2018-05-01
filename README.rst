@@ -2,10 +2,10 @@
 opinel
 ######
 
-.. image:: https://travis-ci.org/nccgroup/opinel.svg?branch=master
-        :target: https://travis-ci.org/nccgroup/opinel
-.. image:: https://coveralls.io/repos/github/nccgroup/opinel/badge.svg?branch=master
-        :target: https://coveralls.io/github/nccgroup/opinel?branch=master      
+.. image:: https://travis-ci.org/l01cd3v/opinel.svg?branch=master
+        :target: https://travis-ci.org/l01cd3v/opinel
+.. image:: https://coveralls.io/repos/github/l01cd3v/opinel/badge.svg?branch=master
+        :target: https://coveralls.io/github/l01cd3v/opinel?branch=master      
 .. image:: https://badge.fury.io/py/opinel.svg
         :target: https://badge.fury.io/py/opinel
         :align: right
@@ -30,10 +30,10 @@ Install from source:
 
 ::
 
-    $ git clone https://github.com/nccgroup/opinel
+    $ git clone https://github.com/l01cd3v/opinel
     $ cd opinel
     $ python setup.py install
 
-.. _Scout2: https://github.com/nccgroup/Scout2
-.. _AWS-Recipes: https://github.com/nccgroup/AWS-Recipes
+.. _Scout2: https://github.com/l01cd3v/AWSScout2
+.. _AWS-Recipes: https://github.com/l01cd3v/AWS-Recipes
 .. _pip: https://pip.pypa.io/en/stable/index.html

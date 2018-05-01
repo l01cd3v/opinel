@@ -23,7 +23,7 @@ setup(
     long_description=open('README.rst').read(),
     author='l01cd3v',
     author_email='l01cd3v@gmail.com',
-    url='https://github.com/nccgroup/opinel',
+    url='https://github.com/l01cd3v/opinel',
     packages=[
         'opinel', 'opinel.utils', 'opinel.services'
     ],
